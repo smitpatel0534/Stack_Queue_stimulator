@@ -1,0 +1,8 @@
+{
+  "theme": "dark",
+  "max_stack_capacity": 10,
+  "max_queue_capacity": 10,
+  "history_limit": 100,
+  "confirm_before_clear": true,
+  "developer_info": "Developer details not set yet. Add your name, course and institution in Settings."
+}
